@@ -1,1 +1,1 @@
-# stepikautotests
+studying autotests on stepik :)
